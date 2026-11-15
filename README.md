@@ -83,7 +83,6 @@ Ensure you have the following installed on your development machine:
    ```bash
    # Copy sample environment configuration for the backend
    cp server/.env.example server/.env
-   # <!-- TODO: Fill in required API keys and settings in server/.env -->
    ```
 
 3. **Install backend dependencies:**
@@ -124,7 +123,7 @@ Ensure you have the following installed on your development machine:
 ```text
 mimi/
 ├── assets/                 # App logos, banners, and static media
-│   └── banner.png          # <!-- TODO: Add project banner -->
+│   └── banner.png          
 ├── client/                 # Flutter mobile application (iOS & Android)
 │   ├── android/            # Android platform configuration & widget host
 │   ├── ios/                # iOS platform configuration & WidgetKit extension
