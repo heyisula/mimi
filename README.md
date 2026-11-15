@@ -147,7 +147,6 @@ mimi/
 - [ ] Connect FastAPI backend with conversational memory for Mimi
 - [ ] Implement gentle reminder and cheerful daily check-in routines
 - [ ] Add customizable appearance and widget styles
-- [ ] <!-- TODO: Add upcoming milestone or feature -->
 
 ---
 
