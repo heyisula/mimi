@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.png" alt="Mimi Project Banner" width="100%" />
+  <img src="assets/banner.png?raw=true" alt="Mimi Project Banner" width="100%" />
 
   <br />
   <br />
