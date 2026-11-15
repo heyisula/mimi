@@ -10,7 +10,7 @@
   <p><strong>A gentle, AI-powered companion living on your home screen, brought to life in loving memory of a little friend.</strong></p>
 
   <p>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0" /></a>
     <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey.svg" alt="Platform: iOS | Android" />
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" />
@@ -75,7 +75,7 @@ Ensure you have the following installed on your development machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<!-- TODO: USERNAME -->/<!-- TODO: REPOSITORY -->.git
+   git clone https://github.com/heyisula/mimi.git
    cd mimi
    ```
 
@@ -169,7 +169,7 @@ Contributions, ideas, and suggestions are warmly welcomed!
 <a id="license"></a>
 ## 📄 License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the Apache 2.0 License. See [`LICENSE`](LICENSE) for more information.
 
 <!-- TODO: Verify license details and attribution -->
 
